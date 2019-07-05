@@ -1,0 +1,5 @@
+/home/st/Bureau/clion-2019.1.3/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/st/Bureau/DPPML
+-- Found GMP: /usr/local/lib/libgmp.so
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/st/Bureau/DPPML/cmake-build-debug
